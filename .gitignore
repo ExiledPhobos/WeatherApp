@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Database files to be excluded, except for the SQL dump file
+*.db
+*.sqlite3
+
+# Environment files
+.env
+*.env
+
+# Virtual environment folders
+.venv/
+env/
+ENV/
+
+# PyCharm project files
+.idea/
+
+# VS Code project files
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Python egg files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Allow SQL files for database export
+# Commented out the exclusion of .sql files to allow database export to be included
+#*.sql
