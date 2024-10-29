@@ -18,7 +18,7 @@ This project is a weather forecasting app that fetches 7-day weather data for mu
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your_username/WeatherApp.git
+git clone https://github.com/ExiledPhobos/WeatherApp.git
 cd WeatherApp
 ```
 
